@@ -6,9 +6,10 @@ tags: skf
 project: true
 level: 4
 type: tool
-url: "[https://securityknowledgeframework.org](https://securityknowledgeframework.org)"
+url: https://securityknowledgeframework.org](https://securityknowledgeframework.org
 pitch: "The Security Knowledge Framework (SKF) is an OWASP educational project that helps developers and security teams understand and apply secure-by-design principles, mapped to standards such as OWASP ASVS and OWASP Top 10."
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 # Security Knowledge Framework
 
